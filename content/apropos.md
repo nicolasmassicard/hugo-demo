@@ -2,7 +2,6 @@
 date = "2016-02-06T12:33:10Z"
 title = "A Propos"
 weight = 5
-draft = true
 icon = "circlestar"
 [[carousel]]
   quote = "Carousel 1"
