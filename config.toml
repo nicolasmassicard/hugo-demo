@@ -1,4 +1,16 @@
 baseurl = "https://nicolasmassicard.github.io/"
-languageCode = "en-us"
+languageCode = "fr-fr"
 title = "C'est une demo!"
-theme="hugo-base-theme"
+theme="landing-page-hugo"
+[params]
+  description = "le meilleur site du monde"
+  
+[[params.social]]
+	title = "Couriel"
+	icom = "envelope-o"
+	url = "mailto:nicolas.massicard@gmail.com"
+[[params.social]]
+	title = "twitter"
+	icon = "twitter"
+	url = "https://twitter.com/GauloisNB"
+
